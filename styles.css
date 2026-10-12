@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 20px; }
+.container { max-width: 700px; margin: 0 auto; background: white; padding: 20px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.statement { margin: 16px 0; padding: 12px; background: #f0f8ff; border-radius: 4px; }
+.answer-form { display:flex; gap:8px; align-items:center; margin-bottom: 12px; }
+.answer-form input { padding: 6px; flex:1; }
+.answer-form button { padding: 8px 12px; }
+.message { margin: 12px 0; color: #333; }
+.controls { margin-top: 12px; }
+.solution { margin-top: 16px; padding: 12px; border-left: 3px solid #4caf50; background: #f9fff5; }

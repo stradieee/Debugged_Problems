@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "Sample: Sum of Two Numbers",
+    "statement": "Find the value of 7 + 8.",
+    "answerType": "numeric",
+    "answer": 15,
+    "solution": "7 + 8 = 15."
+  },
+  {
+    "id": "p2",
+    "title": "Sample: Solve for x",
+    "statement": "Solve for x: 2x + 3 = 11.",
+    "answerType": "numeric",
+    "answer": 4,
+    "solution": "2x + 3 = 11 -> 2x = 8 -> x = 4."
+  },
+  {
+    "id": "p3",
+    "title": "Sample: Symbolic simplification",
+    "statement": "Simplify: (x^2 - 1)/(x - 1). Provide a simplified expression.",
+    "answerType": "symbolic",
+    "answer": "x + 1",
+    "solution": "Divide (x^2 - 1) by (x - 1) to get x + 1 (for x != 1)."
+  }
+]
